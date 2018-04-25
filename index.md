@@ -1,3 +1,12 @@
-## Google map embeding
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83998.94740144748!2d2.2768482993824466!3d48.85883763509667!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e66e1f06e2b70f%3A0x40b82c3688c9460!2sParis!5e0!3m2!1sfr!2sfr!4v1524119650448" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+##  [Lucid Daydream TOUR] (MTY) 
+## Música y visuales en vivo.
+ 
+<iframe src="https://open.spotify.com/embed/album/7vTqh5vR6kgd2N4YfohT3o" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+
+ 28 DE ABRIL 2018 / 9PM EN NODRIZA ESTUDIO
+ ( Calle Mariano Matamoros 534, Centro, 64000 Monterrey, N.L. ) Banda invitada:::Kidney Stones
+ 
+ <iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=nodriza estudio&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+-embedgooglemap.net<style>.mapouter{overflow:hidden;height:500px;width:600px;}.gmap_canvas {background:none!important;height:500px;width:600px;}</style>
+ Cooperación $50
