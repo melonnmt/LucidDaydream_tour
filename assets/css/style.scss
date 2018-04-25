@@ -3,6 +3,7 @@
 
 @import "{{ site.theme }}";
 body{
+    font-size: large;
     background-image: url('https://78.media.tumblr.com/3fe4388cd7841695a6c48890c25998d2/tumblr_nsemmgyWNZ1upfqh4o1_500.gif');
     background-size: cover;
 }
@@ -14,6 +15,11 @@ header {
   background-size: cover;
   width: 100%;
   height: 100%;
+}
+mark { 
+    background-color: black;
+    color: white;
+    
 }
 
 
