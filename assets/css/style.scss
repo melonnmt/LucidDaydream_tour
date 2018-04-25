@@ -2,7 +2,10 @@
 ---
 
 @import "{{ site.theme }}";
-
+body{
+    background-image: url('https://78.media.tumblr.com/5872a0ab3b4ef696454f50140c1ed22a/tumblr_nslu4yL5Pw1tfgvxdo1_500.gif');
+    background-size: cover;
+}
 header {
   display: none;
 }
