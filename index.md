@@ -1,7 +1,7 @@
 
 
 [Lucid Daydream TOUR] (MTY)
-Música y visuales en vivo.
+música y visuales en vivo.
  
 <iframe src="https://open.spotify.com/embed/album/7vTqh5vR6kgd2N4YfohT3o" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
