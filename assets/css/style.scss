@@ -9,7 +9,10 @@ body{
 header {
   display: none;
 }
-
+mark {
+    background-color: white;
+    color: black;
+}
 #rotator {
   background: url(images/rotator.php) no-repeat center top;
   background-size: cover;
