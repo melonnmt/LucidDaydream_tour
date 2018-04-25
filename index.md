@@ -6,8 +6,8 @@ música y visuales en vivo.
  
 <iframe src="https://open.spotify.com/embed/album/7vTqh5vR6kgd2N4YfohT3o" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
- <mark>28 DE ABRIL 2018 / 9PM EN NODRIZA ESTUDIO
- (Calle Mariano Matamoros 534, Centro, 64000 Monterrey, N.L.) Banda invitada:::Kidney Stones</mark>
+ <mark>28 DE ABRIL 2018 / 9PM EN NODRIZA ESTUDIO<br>
+ (Calle Mariano Matamoros 534, Centro, 64000 Monterrey, N.L.) Banda invitada:::Kidney Stones</mark><br>
   <mark>Cooperación $50</mark>
 
  
